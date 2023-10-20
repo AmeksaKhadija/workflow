@@ -1,0 +1,4 @@
+function delet(){
+    inputt.innerHTML='';
+}
+
